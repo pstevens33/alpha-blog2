@@ -17,6 +17,14 @@ $navbar-default-bg: #ff3300;
   text-decoration: none;
 }
 
+#link {
+  color: #fff;
+}
+
+#link:hover {
+  color: #000;
+}
+
 .center {
   text-align: center;
 }
@@ -95,4 +103,9 @@ footer ul li {
   float: left;
   margin-left: 15px;
 }
+
+.white-dropdown {
+  color: #fff;
+}
+
 
